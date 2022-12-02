@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Git_Practice.dir/src/int2048.cpp.o CMakeFiles/Git_Practice.dir/src/test.cpp.o  -o Git_Practice 

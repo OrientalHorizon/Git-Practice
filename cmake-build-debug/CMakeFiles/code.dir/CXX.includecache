@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shenjidf11/code/Git-Practice/src/int2048.cpp
+int2048.h
+/home/shenjidf11/code/Git-Practice/src/int2048.h
+complex
+-
+cstdio
+-
+iomanip
+-
+iostream
+-
+
+/home/shenjidf11/code/Git-Practice/src/int2048.h
+complex
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+vector
+-
+

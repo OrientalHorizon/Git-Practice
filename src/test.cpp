@@ -1,6 +1,7 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include "int2048.h"
 signed main() {
-    cout << "test" << endl;
+    sjtu::int2048 a, b;
+    std::cin >> a >> b;
+    std::cout << a + b << std::endl;
     return 0;
 }
